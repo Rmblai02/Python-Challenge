@@ -2,6 +2,8 @@
 
 # PyBank
 
+![alt text](https://git.bootcampcontent.com/Northwestern-University/NU-VIRT-DATA-PT-04-2023-U-LOLC/-/raw/main/02-Homework/03-Python/Instructions/Starter_Code/Images/revenue-per-lead.png)
+
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
 The Python script analyzes the financial records calculates each of the following:
@@ -17,6 +19,8 @@ The Python script analyzes the financial records calculates each of the followin
   *The greatest decrease in losses (date and amount) over the entire period
 
 # PyPoll
+
+![alt text](https://git.bootcampcontent.com/Northwestern-University/NU-VIRT-DATA-PT-04-2023-U-LOLC/-/raw/main/02-Homework/03-Python/Instructions/Starter_Code/Images/Vote_counting.png)
 
 Python Script for analysis small, rural town vote-counting process.Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
