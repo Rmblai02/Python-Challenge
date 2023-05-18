@@ -1,6 +1,6 @@
 # Python Challenge
 
-# PyBank
+### PyBank
 
 ![alt text](https://github.com/Rmblai02/Python-Challenge/blob/main/Images/revenue-per-lead.png)
 
@@ -18,7 +18,7 @@ The Python script analyzes the financial records calculates each of the followin
 
   *The greatest decrease in losses (date and amount) over the entire period
 
-# PyPoll
+### PyPoll
 
 ![alt text](https://github.com/Rmblai02/Python-Challenge/blob/main/Images/Vote_counting.png)
 
