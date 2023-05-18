@@ -2,7 +2,7 @@
 
 # PyBank
 
-![alt text](![revenue-per-lead](https://github.com/Rmblai02/Python-Challenge/assets/131097736/cc06bbdb-d0ee-43f0-9462-c57e53f83dbc))
+![alt text]
 
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
@@ -20,7 +20,7 @@ The Python script analyzes the financial records calculates each of the followin
 
 # PyPoll
 
-![alt text](https://git.bootcampcontent.com/Northwestern-University/NU-VIRT-DATA-PT-04-2023-U-LOLC/-/raw/main/02-Homework/03-Python/Instructions/Starter_Code/Images/Vote_counting.png)
+![alt text](https://github.com/Rmblai02/Python-Challenge/blob/main/Images/Vote_counting.png)
 
 Python Script for analysis small, rural town vote-counting process.Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
