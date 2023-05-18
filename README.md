@@ -2,7 +2,7 @@
 
 # PyBank
 
-![alt text]
+![alt text](https://github.com/Rmblai02/Python-Challenge/blob/main/Images/revenue-per-lead.png)
 
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
