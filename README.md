@@ -2,7 +2,7 @@
 
 # PyBank
 
-![alt text](https://git.bootcampcontent.com/Northwestern-University/NU-VIRT-DATA-PT-04-2023-U-LOLC/-/raw/main/02-Homework/03-Python/Instructions/Starter_Code/Images/revenue-per-lead.png)
+![alt text](![revenue-per-lead](https://github.com/Rmblai02/Python-Challenge/assets/131097736/cc06bbdb-d0ee-43f0-9462-c57e53f83dbc))
 
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
