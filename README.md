@@ -1,6 +1,6 @@
-#Python Challenge
+# Python Challenge
 
-#PyBank
+# PyBank
 
 Python script for analyzing the financial records of a company. Provided with finacial data set budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
@@ -16,7 +16,7 @@ The Python script analyzes the financial records calculates each of the followin
 
   *The greatest decrease in losses (date and amount) over the entire period
 
-#PyPoll
+# PyPoll
 
 Python Script for analysis small, rural town vote-counting process.Provided a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
